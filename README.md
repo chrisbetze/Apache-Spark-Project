@@ -8,6 +8,13 @@ In this work, Apache Spark was used to calculate queries on files that describe 
 ## Dataset preview
 We use a dataset with movies, which comes from a subset of the *[Full MovieLens Dataset](https://grouplens.org/datasets/movielens/latest/)*. This subset contains three text files in CSV format. The *movie_genres.csv*, *movies.csv* and *ratings.csv*.
 
+| File  | Description |
+| ------------- | ------------- |
+| movies.csv  | Describes the movies in the dataset.  |
+| movie_genres.csv  | Contains on each line a pair of movie ID and movie genre in first and second place respectively.  |
+| ratings.csv  | Describes user ratings for movies.  |
+
+*For more information about the files, visit [Kaggle Movie Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)*.
 ## Queries
 
 | Query  | Description |
