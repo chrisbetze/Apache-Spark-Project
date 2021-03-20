@@ -32,7 +32,7 @@ We use a dataset with movies, which comes from a subset of the *[Full MovieLens 
     * Map Reduce Queries – RDD API
     * Spark SQL with input csv file
     * Spark SQL with input parquet file
-4. The execution times and the bar charts, grouped by query, displayed also in the [report](https://github.com/chrisbetze/Apache-Spark-Project/blob/cdd6ab4f85453e486c7251664714a29646b71259/report.pdf).
+4. We present the results of execution times in a bar graph, grouped by query.
 <img src="https://user-images.githubusercontent.com/50949470/111872098-432c2b80-8996-11eb-9dd9-c8971de009a4.PNG" width="500" height="300">
 
 ## Part 2
@@ -41,5 +41,8 @@ We use a dataset with movies, which comes from a subset of the *[Full MovieLens 
 3. We compare the execution times of the two implementations above.
 <img src="https://user-images.githubusercontent.com/50949470/111873044-17f60c00-8997-11eb-8a22-0a639f076892.PNG" width="500" height="300">
 
-4. We execute a query with and without optimizer ([Spark SQL Query Optimizer](https://spark.apache.org/docs/2.4.4/tuning.html)) and we present the results in a bar graph displayed also in the [report](https://github.com/chrisbetze/Apache-Spark-Project/blob/cdd6ab4f85453e486c7251664714a29646b71259/report.pdf).
+4. We execute a query with and without optimizer ([Spark SQL Query Optimizer](https://spark.apache.org/docs/2.4.4/tuning.html)) and we present the results in a bar graph.
 <img src="https://user-images.githubusercontent.com/50949470/111873075-48d64100-8997-11eb-9e94-a659faa1720b.PNG" width="500" height="300">
+
+## Results
+For more information about the output results and the bar graphs, go to [report](https://github.com/chrisbetze/Apache-Spark-Project/blob/cdd6ab4f85453e486c7251664714a29646b71259/report.pdf).
