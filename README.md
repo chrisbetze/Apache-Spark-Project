@@ -6,7 +6,7 @@ In this work, we use Apache Spark to calculate queries on files that describe da
 2. [Dataframe API / Spark SQL](https://spark.apache.org/docs/2.4.4/sql-programming-guide.html)
 
 ## Dataset preview
-We use a dataset with movies, which comes from a subset of the *[Full MovieLens Dataset](https://grouplens.org/datasets/movielens/latest/)*. This subset contains three text files in CSV format. The *movie_genres.csv*, *movies.csv* and *ratings.csv*.
+We use a dataset with movies, which comes from a subset of the *[Full MovieLens Dataset](https://grouplens.org/datasets/movielens/latest/)*. This subset contains three text files in CSV format.
 
 | File  | Description |
 | ------------- | ------------- |
