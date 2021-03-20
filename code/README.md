@@ -1,9 +1,9 @@
-### Μέρος 1ο:
+### Μέρος 1:
 * Ζητούμενο 2: A2_parqify.py
 * Ζητούμενο 3: qX_[rdd/sql].py, όπου X ο αριθμός του query.
 * Ζητούμενο 4: run_queries.py
 
-### Μέρος 2ο:
+### Μέρος 2:
 * Ζητούμενο 1: broadcast.py
 * Ζητούμενο 2: repartition.py
 * Ζητούμενο 3: B3_compare.py
