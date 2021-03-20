@@ -1,7 +1,7 @@
 # Apache-Spark-Project
 
 ## Description
-In this work, Apache Spark was used to calculate queries on files that describe datasets. Apache Spark offers two APIs for implementing queries:
+In this work, we use Apache Spark to calculate queries on files that describe datasets. Apache Spark offers two APIs for implementing queries:
 1. [Resilient Distributed Dataset (RDD) API](https://spark.apache.org/docs/2.4.4/rdd-programming-guide.html)
 2. [Dataframe API / Spark SQL](https://spark.apache.org/docs/2.4.4/sql-programming-guide.html)
 
