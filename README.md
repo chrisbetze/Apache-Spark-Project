@@ -34,5 +34,5 @@ We use a dataset with movies, which comes from a subset of the *[Full MovieLens 
 3. We compare the execution times of the two implementations above.
 <img src="https://user-images.githubusercontent.com/50949470/111873044-17f60c00-8997-11eb-8a22-0a639f076892.PNG" width="500" height="300">
 
-4. We execute a query with and without optimizer ([Spark SQL Query Optimizer](https://spark.apache.org/docs/2.4.4/tuning.html)) and we present the results in a bar graph displayed in the [report](https://github.com/chrisbetze/Apache-Spark-Project/blob/cdd6ab4f85453e486c7251664714a29646b71259/report.pdf).
+4. We execute a query with and without optimizer ([Spark SQL Query Optimizer](https://spark.apache.org/docs/2.4.4/tuning.html)) and we present the results in a bar graph displayed also in the [report](https://github.com/chrisbetze/Apache-Spark-Project/blob/cdd6ab4f85453e486c7251664714a29646b71259/report.pdf).
 <img src="https://user-images.githubusercontent.com/50949470/111873075-48d64100-8997-11eb-9e94-a659faa1720b.PNG" width="500" height="300">
