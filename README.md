@@ -48,4 +48,4 @@ We use a dataset with movies, which comes from a subset of the *[Full MovieLens 
 For more information about the output results and the bar graphs, go to [report](https://github.com/chrisbetze/Apache-Spark-Project/blob/cdd6ab4f85453e486c7251664714a29646b71259/report.pdf).
 
 ##
-*Collaborators: [Manos (Emmanouil) Vekrakis](https://github.com/manosvek), [Dimitris Kranias](https://github.com/dimitriskranias)*
+*Collaborator: [Manos (Emmanouil) Vekrakis](https://github.com/manosvek)*
